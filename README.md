@@ -1,2 +1,2 @@
 # Veri On isleme
-This repository contains some useful functions to make the dataset ready for carrying out further analysis. 
+Bu repo, akademik araştırmalarda kullanılmak üzere veri setinin analizlere hazır hale getirilmesi için gereken gerekli olan fonksiyonları içermektedir. 
